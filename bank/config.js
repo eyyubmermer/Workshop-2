@@ -1,0 +1,1 @@
+export const bankAddress = "0xA840166FB579997756617A33fd3633b365e219f8"
